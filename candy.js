@@ -114,7 +114,7 @@ function updateTurns(){
      
 }
 function gameOver(){
-    alert("Game over! You are out of moves!!");
+    alert("Game over! You are out of moves! your score is" $score);
     
    
 }
