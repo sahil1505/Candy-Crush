@@ -109,6 +109,7 @@ function updateTurns(){
     if(turns == 0) {
         gameOver();
         turns=19;
+        score=0;
 
     }
      
